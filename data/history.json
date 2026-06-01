@@ -1,0 +1,192 @@
+[
+    {
+        "timestamp": "2026-05-21T14:33:27.222847",
+        "command": "open google",
+        "intent": "open_website"
+    },
+    {
+        "timestamp": "2026-05-31T17:09:59.273024",
+        "command": "what is time now",
+        "intent": "get_time"
+    },
+    {
+        "timestamp": "2026-05-31T17:10:04.862550",
+        "command": "speak",
+        "intent": "unknown"
+    },
+    {
+        "timestamp": "2026-05-31T17:10:19.882689",
+        "command": "open linkedin",
+        "intent": "open_app"
+    },
+    {
+        "timestamp": "2026-06-01T08:32:20.967483",
+        "command": "reminder me in 1 minute to check the fridge",
+        "intent": "unknown"
+    },
+    {
+        "timestamp": "2026-06-01T08:32:45.161074",
+        "command": "what is the time now",
+        "intent": "get_time"
+    },
+    {
+        "timestamp": "2026-06-01T08:33:00.560443",
+        "command": "open whatsapp",
+        "intent": "open_app"
+    },
+    {
+        "timestamp": "2026-06-01T08:52:51.875824",
+        "command": "what is time now",
+        "intent": "get_time"
+    },
+    {
+        "timestamp": "2026-06-01T08:53:01.623622",
+        "command": "remind me in 1 minute to turn off the",
+        "intent": "unknown"
+    },
+    {
+        "timestamp": "2026-06-01T08:53:32.160412",
+        "command": "it's fridge",
+        "intent": "unknown"
+    },
+    {
+        "timestamp": "2026-06-01T08:53:57.506021",
+        "command": "remind me in 1 minute to turn off the fridge",
+        "intent": "unknown"
+    },
+    {
+        "timestamp": "2026-06-01T08:54:28.217069",
+        "command": "open chrome and search for",
+        "intent": "open_app"
+    },
+    {
+        "timestamp": "2026-06-01T08:54:40.223737",
+        "command": "open chrome and search for anti gravity",
+        "intent": "open_app"
+    },
+    {
+        "timestamp": "2026-06-01T08:54:49.865541",
+        "command": "open google",
+        "intent": "open_website"
+    },
+    {
+        "timestamp": "2026-06-01T08:55:02.559028",
+        "command": "open google and search for anti gravity",
+        "intent": "open_website"
+    },
+    {
+        "timestamp": "2026-06-01T08:55:22.410612",
+        "command": "open vs code",
+        "intent": "open_app"
+    },
+    {
+        "timestamp": "2026-06-01T09:04:35.353995",
+        "command": "what is time now",
+        "intent": "get_time"
+    },
+    {
+        "timestamp": "2026-06-01T09:04:43.538731",
+        "command": "what is my location",
+        "intent": "unknown"
+    },
+    {
+        "timestamp": "2026-06-01T09:05:11.982678",
+        "command": "how to build a robot",
+        "intent": "unknown"
+    },
+    {
+        "timestamp": "2026-06-01T09:05:41.808442",
+        "command": "how to create a",
+        "intent": "unknown"
+    },
+    {
+        "timestamp": "2026-06-01T09:06:06.860879",
+        "command": "open whatsapp and send hi to vikram",
+        "intent": "open_app"
+    },
+    {
+        "timestamp": "2026-06-01T09:07:09.427670",
+        "command": "open",
+        "intent": "unknown"
+    },
+    {
+        "timestamp": "2026-06-01T09:07:37.868684",
+        "command": "open cloud",
+        "intent": "open_app"
+    },
+    {
+        "timestamp": "2026-06-01T09:07:56.658176",
+        "command": "open anti gravity",
+        "intent": "open_app"
+    },
+    {
+        "timestamp": "2026-06-01T09:08:15.029276",
+        "command": "open terminal",
+        "intent": "open_app"
+    },
+    {
+        "timestamp": "2026-06-01T09:08:32.616872",
+        "command": "open chrome and search for anti gravity",
+        "intent": "open_and_search"
+    },
+    {
+        "timestamp": "2026-06-01T09:08:56.772758",
+        "command": "what is the floor to build a robot completely as beginner",
+        "intent": "unknown"
+    },
+    {
+        "timestamp": "2026-06-01T09:09:27.962083",
+        "command": "road map to learn embedded",
+        "intent": "unknown"
+    },
+    {
+        "timestamp": "2026-06-01T09:10:03.649006",
+        "command": "how to learn english in one day",
+        "intent": "unknown"
+    },
+    {
+        "timestamp": "2026-06-01T09:10:36.936753",
+        "command": "open files",
+        "intent": "open_app"
+    },
+    {
+        "timestamp": "2026-06-01T09:10:54.742104",
+        "command": "file explorer",
+        "intent": "unknown"
+    },
+    {
+        "timestamp": "2026-06-01T09:11:22.701522",
+        "command": "open file explorer",
+        "intent": "open_app"
+    },
+    {
+        "timestamp": "2026-06-01T09:11:33.707250",
+        "command": "open cloud",
+        "intent": "open_app"
+    },
+    {
+        "timestamp": "2026-06-01T09:12:03.872233",
+        "command": "open notepad and type everything else spoken",
+        "intent": "open_app"
+    },
+    {
+        "timestamp": "2026-06-01T09:12:22.973995",
+        "command": "open notepad",
+        "intent": "open_app"
+    },
+    {
+        "timestamp": "2026-06-01T09:12:37.046962",
+        "command": "and type vikram",
+        "intent": "unknown"
+    },
+    {
+        "timestamp": "2026-06-01T09:13:11.060932",
+        "command": "open notepad and type vikram and save it",
+        "intent": "open_app"
+    },
+    {
+        "timestamp": "2026-06-01T09:13:44.771944",
+        "command": "reminder me in 1 minute to turn off the pc",
+        "intent": "unknown"
+    }
+]

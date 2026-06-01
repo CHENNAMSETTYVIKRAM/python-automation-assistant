@@ -1,0 +1,12 @@
+speechrecognition
+pyttsx3
+pyautogui
+psutil
+streamlit
+requests
+google-genai
+pyaudio
+pyperclip
+PyPDF2
+schedule
+groq
